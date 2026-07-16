@@ -16,6 +16,8 @@ Render Markdown beautifully with GitHub Flavored Markdown, syntax highlighting, 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-success?style=for-the-badge&logo=github)
 
+**🔗 [Try the live demo](https://manoj-maharana.github.io/markdown-viewer/)**
+
 </div>
 
 ---
@@ -96,6 +98,8 @@ That's it.
 No dependencies.
 
 No installation.
+
+👉 Or skip the setup and [try it live here](https://manoj-maharana.github.io/markdown-viewer/).
 
 ---
 
@@ -255,5 +259,7 @@ Feel free to use, modify, and distribute it.
 Made with passion to provide a clean, elegant, and lightning-fast Markdown viewing experience.
 
 **Happy Coding! 🚀**
+
+🔗 [Try the live demo](https://manoj-maharana.github.io/markdown-viewer/)
 
 </div>
